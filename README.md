@@ -1,0 +1,2 @@
+# pertama
+help me learn🙏
