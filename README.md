@@ -28,3 +28,21 @@ Project ini dibuat sebagai latihan memahami dasar pemrograman PHP dan cara mengh
 1. **Aktifkan XAMPP**
    - Start **Apache** dan **MySQL**
 2. **Pindahkan folder project ke:**
+3. **Import database (jika ada file .sql)**
+- Buka `phpMyAdmin`
+- Buat database baru
+- Import file `.sql`
+4. **Akses di browser:**
+
+---
+
+## 🎯 Tujuan Pembelajaran
+- Memahami dasar sintaks PHP
+- Mampu menghubungkan PHP dengan database
+- Mempersiapkan diri untuk membuat aplikasi web dinamis
+- Sebagai langkah awal membangun portfolio web developer
+
+---
+
+## ✨ Status Project
+✅ Sedang dalam tahap belajar dan pengembangan dasar PHP
